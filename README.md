@@ -31,3 +31,15 @@ Removed unwanted columns.
 Created calculated columns for analysis.
 Validated relationships between tables.
 Optimized data model for better performance.
+
+⚙️ Steps: Data Collection → PostgreSQL Data Import → Data Cleaning & Transformation (Power Query) → Data Modeling → DAX Measures → Dashboard Development → Business Insights.
+
+📊 DAX: Created measures for Total Revenue, Interest Earned, Transaction Amount, Transaction Count, Customer Count, Revenue Growth %, and Weekly Performance Analysis.
+
+🗄️ SQL Queries: Used PostgreSQL for table creation, CSV import, data validation, duplicate removal, and data preparation before connecting to Power BI.
+
+💡 Insights: Blue Card category generated the highest revenue, male customers contributed more revenue, and TX, NY, & CA were the top-performing states.
+
+🚀 Next Steps / Recommendations: Implement customer segmentation, churn prediction, real-time data refresh, fraud detection analytics, and AI-based revenue forecasting to improve business decision-making.
+
+
